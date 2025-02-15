@@ -1,0 +1,2 @@
+# NovaEra_SIC_CapstoneProject
+SOLAR ENERGY FORECASTING 🌤️ NOVAERA
