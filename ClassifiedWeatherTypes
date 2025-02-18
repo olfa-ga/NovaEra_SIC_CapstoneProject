@@ -1,8 +1,0 @@
-
-ClassifiedWeatherTypes/
-├── RF_Weather_fifth_interval_.pkl
-├── RF_Weather_first_interval_.pkl
-├── RF_Weather_fourth_interval_.pkl
-├── RF_Weather_second_interval_.pkl
-├── RF_Weather_sixth_interval_.pkl
-└── RF_Weather_third_interval_.pkl
